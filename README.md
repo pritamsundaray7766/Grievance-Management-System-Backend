@@ -57,7 +57,7 @@ mvn clean install
 
 java -jar target/grievance-management-system.jar
 
-Access the application in your browser at http://localhost:8080.
+Access the application in your browser at http://localhost:9090.
 
 ## Usage
 ### User:
