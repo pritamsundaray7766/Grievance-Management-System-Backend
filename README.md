@@ -41,6 +41,9 @@ Object-relational mapping framework for Java.
 ### Web Security: 
 Enhances security features for web applications.
 
+### MySQL: 
+Relational database management system for data storage.
+
 ## Installation
 ### Clone the repository:
 
@@ -58,6 +61,9 @@ mvn clean install
 java -jar target/grievance-management-system.jar
 
 Access the application in your browser at http://localhost:9090.
+
+## Database Configuration
+Make sure to set up your MySQL database with the appropriate tables.
 
 ## Usage
 ### User:
